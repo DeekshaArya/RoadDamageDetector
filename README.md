@@ -3,6 +3,8 @@
 ********
 
 # News
+[2021-03-22]: IEEE Big Data Cup - GRDDC 2020: Proceedings of the [2020 IEEE International Conference on Big Data, Atlanta, GA, USA](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html) are available now. The published version of the GRDDC summary paper can be accessed [here](https://ieeexplore.ieee.org/document/9377790/authors#authors).
+
 [2020-12-14]: IEEE Big Data Cup - GRDDC 2020 culminated successfully! The paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/345989816_Global_Road_Damage_Detection_State-of-the-art_Solutions) provides the details of the challenge. Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Detection) for further updates on the publications!
 
 [2020-12-10]: IEEE Big Data Cup - GRDDC 2020: The workshop is being conducted in association with the [IEEE International Conference on Big Data 2020](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html)! Check out the recordings at [underline.io](https://underline.io/events/56/sessions) and the pictures [here](https://github.com/sekilab/RoadDamageDetector/upload/master/images/GRDD2020.png)!
@@ -34,14 +36,17 @@ Check out this video!
 The details of the Global Road Damage Detection Challenge (GRDDC) 2020, held as an IEEE Big Data Cup with a worldwide participation of 121 teams, are encapsulated in the paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/345989816_Global_Road_Damage_Detection_State-of-the-art_Solutions). 
 
 Citation: 
-Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., & Sekimoto, Y. (2020). Global Road Damage Detection: State-of-the-art Solutions. arXiv preprint arXiv:2011.08740.
+Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., & Sekimoto, Y. (2020). Global Road Damage Detection: State-of-the-art Solutions. 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 5533-5539, doi: 10.1109/BigData50022.2020.9377790.
 
-@article{arya2020global,
-  title={Global Road Damage Detection: State-of-the-art Solutions},
-  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Omata, Hiroshi and Kashiyama, Takehiro and Sekimoto, Yoshihide},
-  journal={arXiv preprint arXiv:2011.08740},
-  year={2020}
-}
+@INPROCEEDINGS{9377790,
+  author={D. {Arya} and H. {Maeda} and S. {Kumar Ghosh} and D. {Toshniwal} and H. {Omata} and T. {Kashiyama} and Y. {Sekimoto}},
+  booktitle={2020 IEEE International Conference on Big Data (Big Data)}, 
+  title={Global Road Damage Detection: State-of-the-art Solutions}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={5533-5539},
+  doi={10.1109/BigData50022.2020.9377790}}
 
 Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Detection) for further updates on the publications!
 
